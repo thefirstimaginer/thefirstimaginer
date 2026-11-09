@@ -7,7 +7,7 @@ Things about me:
 - 🔭 I’m currently working on: The DNU Project, ImagineOS and Loomia.
 - 🌱 I’m currently learning: AI, Rust, GO, Lua, Frontend Development
 - 👯 I’m looking to collaborate on: Little projects
-- 🤔 I’m looking for help with: Not yet
+- 🤔 I’m looking for help with: The Imagine Project
 - 💬 Ask me about: Anything?
 - 📫 How to reach me: Not yet
 - 😄 Pronouns: He/Him
